@@ -4,7 +4,7 @@ public class Primitives {
         char b = 'a';
         float c = 10.5f;
         double d = 10.5456830989345;
-        long e = 32498728357874892849732894L;
+        long e = 324987283578742894L;
         boolean x = false;
 
     }
